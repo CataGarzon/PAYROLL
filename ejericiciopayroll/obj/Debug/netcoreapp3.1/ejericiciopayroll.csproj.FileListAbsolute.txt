@@ -1,0 +1,14 @@
+C:\Users\Sena\source\repos\ejericiciopayroll\bin\Debug\netcoreapp3.1\ejericiciopayroll.exe
+C:\Users\Sena\source\repos\ejericiciopayroll\bin\Debug\netcoreapp3.1\ejericiciopayroll.deps.json
+C:\Users\Sena\source\repos\ejericiciopayroll\bin\Debug\netcoreapp3.1\ejericiciopayroll.runtimeconfig.json
+C:\Users\Sena\source\repos\ejericiciopayroll\bin\Debug\netcoreapp3.1\ejericiciopayroll.runtimeconfig.dev.json
+C:\Users\Sena\source\repos\ejericiciopayroll\bin\Debug\netcoreapp3.1\ejericiciopayroll.dll
+C:\Users\Sena\source\repos\ejericiciopayroll\bin\Debug\netcoreapp3.1\ejericiciopayroll.pdb
+C:\Users\Sena\source\repos\ejericiciopayroll\obj\Debug\netcoreapp3.1\ejericiciopayroll.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\ejericiciopayroll\obj\Debug\netcoreapp3.1\ejericiciopayroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\ejericiciopayroll\obj\Debug\netcoreapp3.1\ejericiciopayroll.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\ejericiciopayroll\obj\Debug\netcoreapp3.1\ejericiciopayroll.AssemblyInfo.cs
+C:\Users\Sena\source\repos\ejericiciopayroll\obj\Debug\netcoreapp3.1\ejericiciopayroll.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\ejericiciopayroll\obj\Debug\netcoreapp3.1\ejericiciopayroll.dll
+C:\Users\Sena\source\repos\ejericiciopayroll\obj\Debug\netcoreapp3.1\ejericiciopayroll.pdb
+C:\Users\Sena\source\repos\ejericiciopayroll\obj\Debug\netcoreapp3.1\ejericiciopayroll.genruntimeconfig.cache
